@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/300848/m/dropover-screenshot.png?v=1663490132" alt="Dropover screenshot"/>
+  <img src="https://dropoverapp.com/assets/images/tile-power-users.jpg" alt="Dropover screenshot"/>
 </p>
 
 ---
